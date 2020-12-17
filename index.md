@@ -8,11 +8,11 @@ My main programming language is C/C++, also have experience with SAS/R/python/ma
 For now I am working on multiple reaserch including 
 `memory management solutions to heterogeneous computation`
 and
-`performance optimization for complex application`
+`performance optimization for complex application`.
 I do also have some other reserch experiences in the field of biostatistics/bioinfomatics including
 `RNA alignment`
 and 
-`pharmacokinetics simulation`
+`pharmacokinetics simulation`.
 
 ### Contact
 kyan2@uncc.edu
